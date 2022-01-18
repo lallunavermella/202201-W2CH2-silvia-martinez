@@ -1,0 +1,25 @@
+{
+  "name": "w2-challenge-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "function.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lallunavermella/202201-W2CH2-silvia-martinez.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lallunavermella/202201-W2CH2-silvia-martinez/issues"
+  },
+  "homepage": "https://github.com/lallunavermella/202201-W2CH2-silvia-martinez#readme",
+  "devDependencies": {
+    "jest": "^27.4.7",
+    "husky": "^7.0.0"
+  }
+}
